@@ -17,6 +17,8 @@ Snapshots of the Dashboard:
 
 ![image](https://github.com/sashank3/WebCrawler_BostonRentals/assets/41186713/a6a3f50d-af18-4ab3-8e63-8f3431b3fae9)
 
+Link to Tableau Cloud Server: https://prod-useast-b.online.tableau.com/#/site/tableaucloudsharing/views/RentalDashboard/Search 
+
 
 
 
